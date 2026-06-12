@@ -41,9 +41,11 @@ def index():
     <html>
         <head>
             <title>Some HTML in here</title>
+            <p1>「P1」</p1>
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
+            <p3>「P3」</p3>
         </body>
     </html>
     """
